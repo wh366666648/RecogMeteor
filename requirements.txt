@@ -1,4 +1,4 @@
 # libraries
-numpy
-matplotlib
-opencv-python
+numpy~=1.18.5
+matplotlib~=3.3.1
+opencv-python~=4.4.0.46
